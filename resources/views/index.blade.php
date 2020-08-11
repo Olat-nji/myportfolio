@@ -102,7 +102,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
 						   					<h1>Hi! <br>I'm Tunji</h1>
-						   					<h2>100% BackEnd and DevOp engineer <a href="https://twitter.com/Olat_ji" target="_blank">Hire me</a></h2>
+						   					<h2>100% BackEnd engineer <a href="https://twitter.com/Olat_ji" target="_blank">Hire me</a></h2>
 												<p><a class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
 											</div>
 					   				</div>
@@ -212,7 +212,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									<i class="icon-data"></i>
 								</span>
 								<div class="desc">
-									<h3>Backend | DevOp</h3>
+									<h3>Back-end development</h3>
 									<p>I'll help you build and deploy that backend structure your company needs.</p>
 								</div>
 							</div>l
@@ -281,7 +281,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					</div>
 					<div class="row">
 						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-							<p>I am a backend developer and a devop engineer. I use PHP(laravel), Html, Javascript, Css, MySQL. I have experience with linux based infrastructure, CI/CD tools i.e Jenkins, Gitlab CI, Azure DevOps.
+							<p>I am a backend engineer. I use PHP(laravel), Html, Javascript, Css, MySQL. I have experience with linux based infrastructure, CI/CD tools i.e Jenkins, Gitlab CI.
                             I have experience in setting up and maintaining an APACHE server. I've also used container orchestration tools like docker, Kubernetes . Cloud providers like AWS, Google cloud, Microsoft Azure, Digital Ocean are not far from me</p>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
