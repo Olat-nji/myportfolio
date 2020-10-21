@@ -58,7 +58,7 @@
 						<li><a href="#" data-nav-section="education">Education</a></li>
 						<li><a href="#" data-nav-section="experience">Experience</a></li>
 						<li><a href="#" data-nav-section="work">Work</a></li>
-						<li><a href="#" data-nav-section="blog">Blog</a></li>
+						
 						<li><a href="#" data-nav-section="contact">Contact</a></li>
 					</ul>
 				</div>
@@ -91,7 +91,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					   					<div class="desc">
 						   					<h1>Hello! <br>I'm Olatunji</h1>
 						   					<h2>100% Software engineer <a href="https://www.upwork.com/freelancers/~01ce152aa8fe609b21?viewMode=1" target="_blank">Hire me</a></h2>
-												<p><a class="btn btn-primary btn-learn" data-nav-section="work">View Portfolio <i class="icon-briefcase3"></i></a></p>
+												<p><a class="btn btn-primary btn-learn" href="#" data-nav-section="work">View Portfolio <i class="icon-briefcase3"></i></a></p>
 											</div>
 					   				</div>
 					   			</div>
@@ -143,32 +143,7 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 
 
 			
-			
-			<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_bg_1.jpg);" data-stellar-background-ratio="0.5">
-				<div class="overlay"></div>
-				<div class="colorlib-narrow-content">
-					<div class="row">
-					</div>
-					<div class="row">
-						{{-- <div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="309" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Cups of coffee</span>
-						</div> --}}
-						<div class="col-md-6 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="30" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Live Projects</span>
-						</div>
-						<div class="col-md-6 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="20" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Clients</span>
-						</div>
-						{{-- <div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Partners</span>
-						</div> --}}
-					</div>
-				</div>
-			</div>
+		
 
 			<section class="colorlib-skills" data-section="skills">
 				<div class="colorlib-narrow-content">
@@ -284,8 +259,8 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 					               </div>
 
 					               <div class="timeline-label">
-					                  <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
-					                  <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+					                  <h2><a href="#">Full Stack Developer At SkyLevel Concepts</a> <span>2018-Now</span></h2>
+					                  <p><a href="skylevelconcepts.com.ng">Skylevel Concepts</a> is Tech Company that offers a range of services from Professional Consultation to Website Development</p>
 					               </div>
 					            </div>
 					         </article>
@@ -297,48 +272,13 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Intern Backend Developer at HNG </a> <span>April 2020 - July 2020</span></h2>
+					                  <p>HNG is an Initiave Created by some of the most successful tech entrepreneurs in Nigeria</p>
 					               </div>
 					            </div>
 					         </article>
 
-					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-					            <div class="timeline-entry-inner">
-					               <div class="timeline-icon color-3">
-					                  <i class="icon-pen2"></i>
-					               </div>
-					               <div class="timeline-label">
-					               	<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					               </div>
-					            </div>
-					         </article>
-
-					         <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
-					            <div class="timeline-entry-inner">
-					               <div class="timeline-icon color-4">
-					                  <i class="icon-pen2"></i>
-					               </div>
-					               <div class="timeline-label">
-					               	<h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					               </div>
-					            </div>
-					         </article>
-
-					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-					            <div class="timeline-entry-inner">
-					               <div class="timeline-icon color-5">
-					                  <i class="icon-pen2"></i>
-					               </div>
-					               <div class="timeline-label">
-					               	<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					               </div>
-					            </div>
-					         </article>
-
+					         
 					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 					            <div class="timeline-entry-inner">
 					               <div class="timeline-icon color-none">
@@ -373,7 +313,7 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 										<span>Colinfy is an e-commerce website built for a range of products. </span>
 										<p class="icon">
 											
-											<span><a href="colinfy.com"><i class="icon-eye"></i> </a></span>
+											<span><a href="colinfy.com"><i class="icon-eye"></i> View</a></span>
 											
 										</p>
 									</div>
@@ -381,14 +321,14 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 							</div>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="project" style="background-image: url(images/img-2.jpg);">
+							<div class="project" style="background-image: url(images/img-2.png);">
 								<div class="desc">
 									<div class="con">
 										<h3><a href="midone-jetstream-laravel.herokuapp.com">Midone Jetstream (Fully Laravelised)</a></h3>
-										<span> Website Beginner Pack</span>
+										<span>A Midone Powered Website Beginner Pack with Fortified Backend</span>
 										<p class="icon">
 											
-											<span><a href="midone-jetstream-laravel.herokuapp.com"><i class="icon-eye"></i> 100</a></span>
+											<span><a href="midone-jetstream-laravel.herokuapp.com"><i class="icon-eye"></i> View</a></span>
 											
 										</p>
 									</div>
@@ -473,6 +413,7 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 
 		</div><!-- end:colorlib-main -->
 	</div><!-- end:container-wrap -->
+
 	</div><!-- end:colorlib-page -->
 
 
