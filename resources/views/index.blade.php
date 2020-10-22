@@ -291,7 +291,7 @@ I am currently a Student of Computer Science, I have some knowledge on Computer 
 				</div>
 			</section>
 
-			<section class="colorlib-work" data-section="work">
+			<section id="works" class="colorlib-work" data-section="work">
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
