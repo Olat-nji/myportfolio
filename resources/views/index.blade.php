@@ -128,7 +128,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
 										<p><strong>Hi I'm Olatunji Olayemi</strong>.A Full stack developer, with 3 years hands-on <br> experience with developing cutting edge , Production Web Applications  that perform well on any platform, Fast, and well structured  on the backend scene with Popular Backend frameworks like Laravel and Node JS.
-I am currently a Computer science Student , I have some knowledge on Computer Architectures, Networking,  Algorithms, and Data Structures
+I am currently a Student of Computer Science, I have some knowledge on Computer Architectures, Networking,  Algorithms, and Data Structures
                                           </p>
 										
 									</div>
@@ -328,7 +328,7 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 										<span>A Midone Powered Website Beginner Pack with Fortified Backend</span>
 										<p class="icon">
 											
-											<span><a href="midone-laravel.herokuapp.com"><i class="icon-eye"></i> View</a></span>
+											<span><a href="https://midone-laravel.herokuapp.com"><i class="icon-eye"></i> View</a></span>
 											
 										</p>
 									</div>
