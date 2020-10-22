@@ -309,7 +309,7 @@ I am currently a Student of Computer Science, I have some knowledge on Computer 
 							<div class="project" style="background-image: url(images/img-1.png);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="colinfy.com">Colinfy</a></h3>
+										<h3><a href="Https://colinfy.com">Colinfy</a></h3>
 										<span>Colinfy is an e-commerce website built for a range of products. </span>
 										<p class="icon">
 											
