@@ -328,7 +328,7 @@ I am currently a Computer science Student , I have some knowledge on Computer Ar
 										<span>A Midone Powered Website Beginner Pack with Fortified Backend</span>
 										<p class="icon">
 											
-											<span><a href="midone-jetstream-laravel.herokuapp.com"><i class="icon-eye"></i> View</a></span>
+											<span><a href="midone-laravel.herokuapp.com"><i class="icon-eye"></i> View</a></span>
 											
 										</p>
 									</div>
