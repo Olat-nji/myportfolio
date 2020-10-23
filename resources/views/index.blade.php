@@ -91,7 +91,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					   					<div class="desc">
 						   					<h1>Hello! <br>I'm Olatunji</h1>
 						   					<h2>100% Software engineer <a href="https://www.upwork.com/freelancers/~01ce152aa8fe609b21?viewMode=1" target="_blank">Hire me</a></h2>
-												<p><a class="btn btn-primary btn-learn" href="#works" data-nav-section="work">View Portfolio <i class="icon-briefcase3"></i></a></p>
+												{{-- <p><a class="btn btn-primary btn-learn" href="#works" data-nav-section="work">View Portfolio <i class="icon-briefcase3"></i></a></p> --}}
 											</div>
 					   				</div>
 					   			</div>
@@ -344,6 +344,21 @@ I am currently a Student of Computer Science, I have some knowledge on Computer 
 										<p class="icon">
 											
 											<span><a href="https://movieintel.com.ng"><i class="icon-eye"></i> View</a></span>
+											
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="project" style="background-image: url(images/img-4.png);">
+								<div class="desc">
+									<div class="con">
+										<h3><a href="midone-jetstream-laravel.herokuapp.com">Scribblesland</a></h3>
+										<span>Scribblesland.com was made for a company that does children shows</span>
+										<p class="icon">
+											
+											<span><a href="https://scribblesland.com"><i class="icon-eye"></i> View</a></span>
 											
 										</p>
 									</div>
